@@ -1,4 +1,4 @@
-Thank you for taking the time to review my design test submission. Below, I’ve documented my approach, tools used, and some thoughts on the process.
+Hi! I’m Agness Mary George. This repository contains my submission for the Tandemloop UI/UX Designer screening test.
 
 About the Task :
 
@@ -18,15 +18,11 @@ I began by carefully analyzing the original sections to understand the hierarchy
 
 I set up my Figma file with a 1920 × 1080 px frame for each desktop section.
 
-Designing desktop versions : 
+Frame & Layout
 
-I focused on recreating each section as accurately as possible.
+Desktop designs were created using a 1920 × 1080 px frame.
 
-Matched typography sizes and weights using Manrope.
-
-Used open-source icons with a similar style to the originals.
-
-Double-checked spacing and alignments to ensure everything looked clean and balanced.
+Mobile versions were designed using the iPhone 16 Plus frame in Figma to ensure responsiveness.
 
 Creating mobile layouts:
 
