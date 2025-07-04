@@ -36,7 +36,7 @@ Adjusted heading sizes for better readability on smaller screens.
 
 Stacked elements vertically to create a smoother scroll experience.
 
-Reduced icon sizes to around 24 px and adjusted paddings to avoid crowding.
+Reduced icon sizes and adjusted paddings to avoid crowding.
 
 Made sure buttons and clickable areas are comfortable to tap.
 
